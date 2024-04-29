@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  border-radius: 10px;
+  background-color: #150b3e;
+  width: 45%;
+  padding: 40px;
+}
+.sCard {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.profile {
+  background-color: #c7d2fe;
+  width: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 150px;
+  margin-right: 20px;
+}
+.para2 {
+  color: #585076;
+  font-size: 20px;
+}
+.sarahead {
+  color: #d4d2db;
+  font-size: 25px;
+}
+.rup {
+  display: flex;
+  justify-content: space-between;
+}
+.your {
+  color: #585076;
+  font-size: 30px;
+}
+.moneyhead {
+  color: #d4d2db;
+  font-size: 40px;
+}
+.rupara {
+  color: #585076;
+}
+.withHead {
+  color: #d4d2db;
+}
+.hunt {
+  color: #585076;
+}
+.unodd {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
